@@ -1,0 +1,12 @@
+.home{
+  background-image: url('http://res.cloudinary.com/sagacity/image/upload/c_crop,h_563,w_759,x_0,y_0/c_scale,w_1080/v1397352523/0613-news-feed_svbcys.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  min-width: 320px;
+  min-height: 320px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
